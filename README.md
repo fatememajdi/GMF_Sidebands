@@ -1,4 +1,4 @@
-# Generalized Mechanical Frequency (GMF) & Sideband Analysis
+# Sideband Analysis
 
 ## Introduction
 This project provides signal processing tools to detect **Generalized Mechanical Frequencies (GMFs)** 
@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ```
 GMF_Sidebands/
 |— src/
-|    |— gmf_sidebands.py    # Core implementation
+|    |— sideband.py    # Core implementation
 |— notebooks/               # Example notebooks
 |— requirements.txt
 |— README.md
